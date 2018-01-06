@@ -1,4 +1,5 @@
-/*Review the code provided in the editor below, then complete the solveMeFirst function so that it returns the sum of two integers read from stdin. Take some time to understand this code so you're prepared to write it yourself in future challenges.
+/*Review the code provided in the editor below, then complete the solveMeFirst function so that it returns the sum of two integers
+read from stdin. Take some time to understand this code so you're prepared to write it yourself in future challenges.
 
 Select a language below, and start coding!
 
