@@ -10,16 +10,10 @@ Output Format
 
 Code that prints the sum calculated and returned by solveMeFirst is provided for you in the editor.*/
 
-#include <cmath>
-#include <cstdio>
-#include <vector>
 #include <iostream>
-#include <algorithm>
 using namespace std;
 
-
 int solveMeFirst(int a, int b) {
- // Hint: Type return a+b; below:
   return a+b;
 }
 int main() {
